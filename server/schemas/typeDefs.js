@@ -42,4 +42,4 @@ type Mutation {
 }
 `;
 
-module.exports = typeDefs
+module.exports = typeDefs;
